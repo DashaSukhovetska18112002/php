@@ -1,0 +1,18 @@
+<?php
+
+{
+
+$a = 6;
+$b = 2;
+$c = 2;
+
+echo (-$a)."\n";
+echo (-$b)."\n";
+echo ($a+$b+$c)."\n";
+echo ($a-$b-$c)."\n";
+echo ($a*$b*$c)."\n";
+echo ($a/$b/$c)."\n";
+echo ($a-$b%$c)."\n";
+echo ($a**$b-$c)."\n";
+}
+?>
